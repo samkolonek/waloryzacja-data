@@ -1,0 +1,8 @@
+{
+  "year": 2026,
+  "minPensionBrutto": 1978.49,
+  "waloryzacjaRate": 5.3,
+  "inflationRate": 3.6,
+  "threshold14th": 2900.0,
+  "isManual": false
+}
